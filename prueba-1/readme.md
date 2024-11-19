@@ -11,3 +11,5 @@ En esta carpeta se encuentran los ficheros necesarios para prueba. Los datos est
 - dist_puntos.csv. Distancias entre las tiendas cercanas a las propias.
 
 ## 1. El impacto en ventas en los puntos de ventas cod_pv_2574 y cod_pv_5803 durante el periodo de la acción.
+## 2. Si ha sido rentable a nivel económico sabiendo que el coste del producto es de 0.27 €/unidad vendida
+## 3. Cuanto se prevé que se gane si se mantiene 2 meses más la acción.
